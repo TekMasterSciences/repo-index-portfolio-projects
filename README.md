@@ -7,6 +7,7 @@ Data Analytics and Data Science Portfolio projects:
 
 From Codeacademy ( Learning Projects ):
 - Life Expectancy and GDP Port folio project ( https://github.com/TekMasterSciences/life-expectancy-gdp-analysis )
+- US Medical Insurance ( https://github.com/TekMasterSciences/us-medical-insurance-analysis )
 
 # Connect With Me
 

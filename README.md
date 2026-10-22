@@ -1,9 +1,8 @@
-# Data Analytics and Data Science Portfolio Repo for links
+# Data Analytics and Machine Learning Portfolio Repo for links
 
 Welcome to my Data Analytics Portfolio.
 
-Data Analytics and Data Science Portfolio projects:
-
+Data Analytics and Machine Learning Portfolio projects:
 
 From Codeacademy ( Learning Projects ):
 - Life Expectancy and GDP Port folio project ( https://github.com/TekMasterSciences/life-expectancy-gdp-analysis )
